@@ -1,0 +1,11 @@
+Build Kits are collections of blocks/items that everybody will have access to when building. They could simply be collections of colours,
+a palette geared towards a specific era (e.g medieval, modern) or a collection of blocks designed to build a specific thing (e.g machinery
+or magic.)
+
+File will be updated as more kits are added.
+
+Currently added kits:
+  - Special Blocks
+      + Invisible barrier block.
+      + Light block.
+      + Invisible item frame (normal).
